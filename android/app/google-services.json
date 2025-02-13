@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763174740475",
+    "project_id": "quanto-custa-the-v2",
+    "storage_bucket": "quanto-custa-the-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763174740475:android:b1012a8e99c00966c26b5e",
+        "android_client_info": {
+          "package_name": "com.example.quanto_custa_the_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1mUTc3QfxcRnizA_rvhE5FXaRYOaBPBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
